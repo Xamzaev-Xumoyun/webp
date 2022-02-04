@@ -1,0 +1,17 @@
+body{
+    background-color:#d34;
+}
+
+.link{
+    color: transparent;
+}
+
+.link__image{
+color: #547;
+transition: color 0.8s ease;
+}
+
+.link__image:hover{
+    color: 
+    #FDD6BA;
+}
